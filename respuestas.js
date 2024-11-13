@@ -16,6 +16,7 @@ const crearLibroSiNoExiste = (nuevoLibro) => {
         console.log('El libro ya está registrado.');
     }
 };
+
 crearLibroSiNoExiste({ titulo: "El Señor de los Anillos", autor: "J.R.R. Tolkien", año: 1954, precio: 20.99, copias: 10 });
 
 //Solución 2: Leer libros por rango de precio
@@ -66,6 +67,8 @@ const eliminarLibro = (titulo) => {
 };
 
 eliminarLibro("El Señor de los Anillos");
+
+
 //Solución 5: Leer todos los libros disponibles
 
 const leerTodosLosLibros = () => {
