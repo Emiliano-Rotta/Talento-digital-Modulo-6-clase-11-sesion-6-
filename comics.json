@@ -1,0 +1,23 @@
+[
+  {
+    "titulo": "Superman",
+    "autor": "Stan Lee",
+    "año": 1993,
+    "precio": 20,
+    "stock": 25
+  },
+  {
+    "titulo": "Iron Man",
+    "autor": "Stan Lee",
+    "año": 1963,
+    "precio": 19.99,
+    "stock": 30
+  },
+  {
+    "titulo": "Capitan America",
+    "autor": "Stan Lee",
+    "año": 1988,
+    "precio": 29.99,
+    "stock": 15
+  }
+]
